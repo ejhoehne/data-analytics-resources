@@ -1,5 +1,6 @@
 # Data Analytics Resources
 A resource center for articles, books, videos, and tools to support continuous learning and career development in the data field.
+* denotes it was added by Emily. 
 
 ## Videos
 
@@ -103,7 +104,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
-[Tableau Visualizations - Added by Emily](https://learn.microsoft.com/en-us/training/powerplatform/power-bi](https://public.tableau.com/app/profile/lilla.rasztik/viz/Tutorialsofvisualizations/Tutorial)
+[Tableau Visualizations*](https://public.tableau.com/app/profile/lilla.rasztik/viz/Tutorialsofvisualizations/Tutorial)
+
 
 ## Analysis 
 
