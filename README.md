@@ -103,7 +103,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
-[Tableau Visualizations - Added by Emily]([https://learn.microsoft.com/en-us/training/powerplatform/power-bi](https://public.tableau.com/app/profile/lilla.rasztik/viz/Tutorialsofvisualizations/Tutorial))
+[Tableau Visualizations - Added by Emily](https://learn.microsoft.com/en-us/training/powerplatform/power-bi](https://public.tableau.com/app/profile/lilla.rasztik/viz/Tutorialsofvisualizations/Tutorial)
 
 ## Analysis 
 
