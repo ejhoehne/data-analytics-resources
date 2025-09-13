@@ -103,6 +103,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
+[Tableau Visualizations - Added by Emily]([https://learn.microsoft.com/en-us/training/powerplatform/power-bi](https://public.tableau.com/app/profile/lilla.rasztik/viz/Tutorialsofvisualizations/Tutorial))
+
 ## Analysis 
 
 [Data Analysis of Licensed Drivers in the USA](https://deepnote.com/app/data-analytics-playroom-daj/Analysis-3354e600-3cd3-4c06-866f-97f3eb21a5df?utm_source=substack&utm_medium=email) - using Deepnote / Python / SQL 
