@@ -66,6 +66,11 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [21 Data Science Take Home Challenges](https://www.interviewquery.com/p/data-science-takehome-challenges)
 
+* [100 Days of Data Analytics](https://www.interviewquery.com/p/data-science-takehome-challenges)
+
+
+
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
